@@ -128,7 +128,7 @@ backend_opset_version = {
     'ReduceMean': [1, 11, 13],
     'ReduceMin': [1, 11, 12, 13],
     'ReduceProd': [1, 11, 13],
-    'ReduceSum': [1, 11],
+    'ReduceSum': [1, 11, 13],
     'ReduceSumSquare': [1, 11],
     'Relu': [1, 6, 13],
     'Reshape': [1, 5],
